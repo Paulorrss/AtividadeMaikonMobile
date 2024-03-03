@@ -1,2 +1,2 @@
 # AtividadeMaikonMobile
- Obrigado comunidade da Rocketseat por ajudar no código via Discord. 
+ Obrigado comunidade da Rocketseat por auxiliar no código via Discord. 
